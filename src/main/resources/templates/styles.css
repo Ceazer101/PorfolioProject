@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ body {
+    margin: auto;
+    //border: auto;
+    padding-bottom: 29%;
+    //background-color: #2f4353;
+    background-image: linear-gradient(315deg, #3d6d79 30%, #d69d66 90%);
+
+}
+
+main {
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+}
+
+main > h1 {
+    text-align: center;
+    font-size: 3.5em;
+}
